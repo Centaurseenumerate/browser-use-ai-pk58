@@ -1,4 +1,4 @@
-# 
+# Léger Crawl4AI extensions. Avec ingénierie de prompts et recherche sémantique — optimisé pour des performances et une efficacité maximales.
 
 
 
